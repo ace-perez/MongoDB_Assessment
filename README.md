@@ -7,4 +7,5 @@ I used python to code the program so I used bash on windows terminal  --->
 
 aceperez00@DESKTOP-1MKT991:/mnt/c/Users/acele$ cd /mnt/c/Users/acele/MongoDB_Challenge  
 // Changed directory to where both of the files were
+
 aceperez00@DESKTOP-1MKT991:/mnt/c/Users/acele/MongoDB_Challenge$ python3 main.py
