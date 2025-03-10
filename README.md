@@ -1,4 +1,4 @@
-# MongoDB_Assessessment
+# Flatten JSON
 The "main.py" file should be the program to flatten the JSON object. 
 I just used the example you gave me as the JSON object.
 The "myjson.json" file is the JSON file
